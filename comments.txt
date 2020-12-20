@@ -1,0 +1,11 @@
+Data Files Required: None
+Programming Files Required: *TicTacToe.java, Board.java, State.java
+	*contains main method
+UserID emartinson made first move = 5
+
+For fun, you can uncomment the System.out.println() statements and printBoard statements in the move() method
+	of Board.java (graphically displays a tic-tac-toe game with ASCII art every time a move is done during
+	initial search of states)
+
+With pruning, 288 optimal paths are found.
+Without pruning, 5184 optimal paths are found.
